@@ -1,6 +1,10 @@
 ### Docker compose on AWS ECS with Hasura and Postgres
 
+# Target architecture
 
+![done](https://user-images.githubusercontent.com/106388100/186433162-28bfafa8-dff9-461f-9f0e-ed3f03685de2.png)
+
+![export](https://user-images.githubusercontent.com/106388100/186436883-dd24c855-e758-4b93-8488-c47d74763fc6.png)
 
 
 configure the environment variables with a correct pair of AWS_ACCESS_KEY_ID / AWS_SECRET_ACCESS_KEY
